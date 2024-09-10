@@ -1,5 +1,15 @@
 # initis310-coding-homework
+PROOF OF INSTALLMENT
+GITHUB  
 
-![gitversion](images/Screen%20Shot%202024-09-09%20at%204.35.26%20PM.png)
-DISCORD NAME: NCHAT3
-HYPOTHESIS USERNAME: NCHAT3
+![](images/git-version.png)
+
+PYTHON 
+![](images/python-version.png)
+
+VS CODE
+![](images/Vs-Version.png)
+
+
+
+
