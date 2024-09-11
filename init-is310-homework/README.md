@@ -10,6 +10,9 @@ PYTHON
 VS CODE
 ![](images/Vs-Version.png)
 
+DISCORD:NCHAT3
+Hypothesis: NCHAT3 
+
 
 
 
